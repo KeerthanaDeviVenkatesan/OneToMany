@@ -1,0 +1,5 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äß‹ºøÿÿÿÿ
+i	java:S116"URename this field "college_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óâ2
+J
+java:S1068"/Remove this unused "collegeName" private field.(èŸ…·üÿÿÿÿ
